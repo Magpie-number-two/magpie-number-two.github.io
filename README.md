@@ -1,7 +1,8 @@
 # Magpie Number Two
 Magpie Number Two is a collaboratively-created resource of social justice successes. It's for people who see injustice in their lives and communities, and want to learn from the people who already fought issues like theirs and won. It's for solidarity across movements, communities and geographies, and for learning from those who came before us. 
 
-As a resource, I'm hoping that Magpie Number Two can be an advice column, so that people can write in with their own questions, as well as a website where people can find stories of successes, large and small.
+Magpie Number Two will start as an advice column, so that people can write in with their own questions. 
+Hopefully, the responses to these questions will start to form a framework for the website, so that people can find stories of successes, large and small.
 
 ## How can I contribute?
 I'm working on this! 
