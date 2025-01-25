@@ -9,7 +9,7 @@ I'm working on this!
 Currently I'm setting up this repository, using what I've learned as a participant and mentor in [Open Seeds](https://we-are-ols.org/openseeds/) and as a contributor to the [Turing Way](https://book.the-turing-way.org/index.html). 
 That means it's very Github-centric at the moment. 
 - If you're comfortable with Github, feel free to open an issue with questions and/or suggestions!
-- If Github is not (yet) your friend, I'll have an email address for you to contact soon.
+- If Github is not (yet) your friend, please do email me at hello@magpie-number-two.com.
 
 ## Why Magpie Number Two?
 Magpies are intelligent birds: they learn from each other and from their own experiences. 
