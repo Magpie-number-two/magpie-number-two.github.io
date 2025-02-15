@@ -30,7 +30,6 @@ baseurl: /docs/      # place folder name if the site is served in a subfolder
 
 github_username:  LauraCarter
 
-
 # Build settings
 theme: minima
 plugins:
