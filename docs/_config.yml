@@ -20,8 +20,9 @@
 
 title: Magpie Number Two
 email: hello@magpie-number-two.com
-description: >- 
-: A collaboratively-created resource of social justice successes
+
+description: > 
+  A collaboratively-created resource of social justice successes
 
 domain: magpie-number-two.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://www.magpie-number-two.com  # the base hostname and protocol for your site, e.g. http://example.com
